@@ -1,4 +1,4 @@
 RBTree
 ======
 
-Red Black Tree Implementation in Haskell
+This is my attempt at implementing Red Black Trees in Haskell
